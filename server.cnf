@@ -3,3 +3,4 @@
 include cfg/common-configs/server.cnf
 
 gitpath_mod=/home/chiller/git/teeworlds-owo
+git_branch=owo
